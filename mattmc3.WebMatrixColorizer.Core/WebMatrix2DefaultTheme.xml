@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+	<SurfaceBackground Background="00FFFFFF" />
+	<Classifications>
+		<Item Name="Default" Foreground="FF000000" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="CssComment" Foreground="FF509610" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="CssString" Foreground="FF4F76AC" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="CssNumber" Foreground="FF4F76AC" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="CssItemName" Foreground="FF823125" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="CssImportant" Foreground="FF878787" Background="FFE7D789" BoldFont="No" />
+		<Item Name="CssItemNamespace" Foreground="FF823125" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="CssCurlyBrace" Foreground="FF222222" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="CssUnits" Foreground="FF4F76AC" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="CssFunctionName" Foreground="FF823125" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="CssFunctionBrace" Foreground="FF222222" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="CssFunctionArgument" Foreground="FF222222" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="CssAtDirectiveName" Foreground="FF222222" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="CssCharsetName" Foreground="FF222222" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="CssImportUrl" Foreground="FF222222" Background="FFFFFF00" BoldFont="No" />
+		<Item Name="CssPropertyName" Foreground="FFD75028" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="CssPropertyValue" Foreground="FF4F76AC" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="CssUrlFunction" Foreground="FF4F76AC" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="CssUrlString" Foreground="FF4F76AC" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="CssHexColor" Foreground="FF4F76AC" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="CssElementTagName" Foreground="FF4F76AC" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="CssElementAttribute" Foreground="FFE7D789" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="CssPseudoClass" Foreground="FF878787" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="CssPseudoElement" Foreground="FF878787" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="CssPseudoClassArgument" Foreground="FF878787" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="CssPseudoPageType" Foreground="FF4F76AC" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="CssMediaQuery" Foreground="FF823125" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="CssMediaType" Foreground="FF823125" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="CssSelector" Foreground="FF222222" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="CssSelectorOperator" Foreground="FF222222" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="CssSquareBracket" Foreground="FF222222" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="CssClassSelector" Foreground="FF823125" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="CssIdSelector" Foreground="FF823125" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="CssUnicodeRange" Foreground="FF823125" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="CssCustomPropertyName" Foreground="FFD75028" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="HtmlComment" Foreground="FF509610" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="HtmlString" Foreground="FF4F76AC" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="HtmlElementName" Foreground="FF823125" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="HtmlElementPrefix" Foreground="FF823125" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="HtmlAttributeName" Foreground="FFD75028" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="HtmlElementAttributePrefix" Foreground="FFD75028" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="HtmlElementAttributeValue" Foreground="FF4F76AC" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="HtmlEquals" Foreground="FF4F76AC" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="HtmlAngleBracket" Foreground="FF4F76AC" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="HtmlEntity" Foreground="FF823125" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="HtmlServerCodeBlockSeparator" Foreground="FF222222" Background="FFD7BF49" BoldFont="No" />
+		<Item Name="HtmlServerCodeBlockContent" Foreground="FF222222" Background="FFF3F2E1" BoldFont="No" />
+		<Item Name="JScriptComment" Foreground="FF509610" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="JScriptNumber" Foreground="FFB35BB4" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="JScriptString" Foreground="FF823125" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="JScriptKeyword" Foreground="FF4F76AC" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="JScriptFutureKeyword" Foreground="FF222222" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="JScriptOperator" Foreground="FF4AA99D" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="JScriptGlobalVariable" Foreground="FFB35BB4" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="JScriptGlobalConstructor" Foreground="FFD75028" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="PhpComment" Foreground="FF509610" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="PhpString" Foreground="FF4F76AC" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="PhpNumber" Foreground="FFB35BB4" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="PhpKeyword" Foreground="FF4F76AC" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="PhpVariable" Foreground="FFB35BB4" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="PhpFunction" Foreground="FFD75028" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="PhpOperator" Foreground="FF4AA99D" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="PhpGlobalVariable" Foreground="FFB35BB4" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="PhplCompileTimeConstant" Foreground="FF222222" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="SqlComment" Foreground="FF509610" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="SqlString" Foreground="FF4F76AC" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="SqlKeyword" Foreground="FF4F76AC" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="SqlFunction" Foreground="FFD75028" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="SqlOperator" Foreground="FF4AA99D" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="SqlVariable" Foreground="FFB35BB4" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="SqlSystemVariable" Foreground="FFB35BB4" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="VBScriptComment" Foreground="FF509610" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="VBScriptString" Foreground="FF823125" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="VBScriptKeyword" Foreground="FF4F76AC" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="HtmlScriptBlock" Foreground="FF222222" Background="FFF8F8FF" BoldFont="No" />
+		<Item Name="HtmlStyleBlock" Foreground="FF222222" Background="FFF0FFFF" BoldFont="No" />
+		<Item Name="roslyn.xmlDocAttribute" Foreground="FF509610" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="roslyn.xmlDocComment" Foreground="FF509610" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="sighelp-documentation" Foreground="FF222222" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="currentParam" Foreground="FF222222" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="natural language" Foreground="FF222222" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="line number" Foreground="FFA2AAB5" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="word wrap glyph" Foreground="FFD3D3D3" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="Razor Code" Foreground="FF222222" Background="FFE7EFF2" BoldFont="No" />
+		<Item Name="roslyn.xmlDocTag" Foreground="FF909090" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="roslyn.xmlDocXmlComment" Foreground="FF509610" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="roslyn.xmlDocCData" Foreground="FF909090" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="roslyn.operator" Foreground="FF222222" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="roslyn.punctuation" Foreground="FF222222" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="roslyn.verbatimString" Foreground="FF823125" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="roslyn.preprocessorKeyword" Foreground="FF4F76AC" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="roslyn.preprocessorText" Foreground="FF222222" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="comment" Foreground="FF509610" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="excluded code" Foreground="FF909090" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="identifier" Foreground="FF222222" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="keyword" Foreground="FF4F76AC" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="roslyn.userType" Foreground="FF4AA99D" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="roslyn.userTypeStructure" Foreground="FF4AA99D" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="roslyn.userTypeInterface" Foreground="FF4AA99D" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="roslyn.userTypeDelegate" Foreground="FF4AA99D" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="roslyn.userTypeEnum" Foreground="FF5FB8AD" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="roslyn.userTypeTypeParameter" Foreground="FF4AA99D" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="roslyn.userTypeUnbound" Foreground="FF823125" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="preprocessor keyword" Foreground="FF909090" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="operator" Foreground="FF4AA99D" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="literal" Foreground="FF222222" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="string" Foreground="FF823125" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="number" Foreground="FF222222" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="symbol definition" Foreground="FF5FB8AD" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="symbol reference" Foreground="FF5FB8AD" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="formal language" Foreground="FF222222" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="roslyn.vb.userTypeModule" Foreground="FF4AA99D" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="roslyn.vb.xmlText" Foreground="FFD3D3D3" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="roslyn.vb.xmlProcessingInstruction" Foreground="FFD3D3D3" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="roslyn.vb.xmlName" Foreground="FF844646" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="roslyn.vb.xmlEmbeddedExpression" Foreground="FFD3D3D3" Background="FFFFFEBF" BoldFont="No" />
+		<Item Name="roslyn.vb.xmlDelimiter" Foreground="FF4F76AC" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="roslyn.vb.xmlComment" Foreground="FF509610" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="roslyn.vb.xmlCDataSection" Foreground="FFC0C0C0" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="roslyn.vb.xmlAttributeValue" Foreground="FF4F76AC" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="roslyn.vb.xmlAttributeQuotes" Foreground="FF4F76AC" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="roslyn.vb.xmlAttributeName" Foreground="FFD75028" Background="00FFFFFF" BoldFont="No" />
+		<Item Name="roslyn.vb.xmlEntityReference" Foreground="FFD75028" Background="00FFFFFF" BoldFont="No" />
+	</Classifications>
+</Items>
